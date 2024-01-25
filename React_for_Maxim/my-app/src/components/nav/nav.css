@@ -1,0 +1,10 @@
+.menu a{
+    font-size: 21px;
+    font-weight: 600;
+    color: #333;
+    text-decoration: none;
+    display: inline-block;
+    border-right: 1px solid #333;
+    padding-right: 2vw;
+    margin-right: 2vw;
+}
